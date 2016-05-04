@@ -1,0 +1,2 @@
+# ZWSSpecs
+cocoapods specs
